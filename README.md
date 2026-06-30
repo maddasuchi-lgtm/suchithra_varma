@@ -1,3 +1,6 @@
+# 💫 About Me:
+🌱 Currently learning Full-Stack Development and Machine Learning<br>💬 Ask me about Python, Java, SQL, Git, and Web Development<br>⚡ Fun fact: Every project I build teaches me something new, and I'm always excited to explore new technologies.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Suchithra varma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maddasuchi@gmail.com) 
